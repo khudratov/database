@@ -1,0 +1,132 @@
+{
+  "posts": [
+  {
+    "id": 1,
+    "title": "Lorem Ipsum",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  {
+    "id": 2,
+    "title": "Aenean Inceptos",
+    "body": "Aenean inceptos ipsum, a imperdiet magna pulvinar."
+  },
+  {
+    "id": 3,
+    "title": "Vestibulum Fringilla",
+    "body": "Vestibulum fringilla justo eu tellus elementum, sit amet dignissim sapien pharetra."
+  },
+  {
+    "id": 4,
+    "title": "Pellentesque Nunc",
+    "body": "Pellentesque nunc quam, varius non cursus in, euismod eget ante."
+  },
+  {
+    "id": 5,
+    "title": "Suspendisse Potenti",
+    "body": "Suspendisse potenti. Vivamus dignissim arcu vel lorem cursus posuere."
+  },
+  {
+    "id": 6,
+    "title": "Quisque Cursus",
+    "body": "Quisque cursus, sapien vel volutpat blandit, nisl purus pulvinar neque."
+  },
+  {
+    "id": 7,
+    "title": "Fusce Porttitor",
+    "body": "Fusce porttitor orci ut turpis malesuada, vel mattis orci cursus."
+  },
+  {
+    "id": 8,
+    "title": "Nullam Egestas",
+    "body": "Nullam egestas, sem eget sollicitudin fringilla, dolor lorem tincidunt arcu."
+  },
+  {
+    "id": 9,
+    "title": "Mauris Eleifend",
+    "body": "Mauris eleifend, nisi sit amet facilisis facilisis, arcu ligula volutpat enim."
+  },
+  {
+    "id": 10,
+    "title": "Donec Euismod",
+    "body": "Donec euismod odio eu libero eleifend vestibulum vel ac augue."
+  }
+]
+  "comments": [
+  {
+    "id": 1,
+    "postId": 1,
+    "text": "Great post! Really enjoyed reading it."
+  },
+  {
+    "id": 2,
+    "postId": 1,
+    "text": "This information is really helpful. Thanks for sharing!"
+  },
+  {
+    "id": 3,
+    "postId": 2,
+    "text": "I had no idea about this topic. Thanks for enlightening me."
+  },
+  {
+    "id": 4,
+    "postId": 2,
+    "text": "Your writing style is engaging. Keep up the good work!"
+  },
+  {
+    "id": 5,
+    "postId": 3,
+    "text": "I've been looking for something like this. Thanks!"
+  },
+  {
+    "id": 6,
+    "postId": 3,
+    "text": "I learned something new today. Thanks for sharing your knowledge."
+  },
+  {
+    "id": 7,
+    "postId": 4,
+    "text": "This post inspired me to take action. Thank you."
+  },
+  {
+    "id": 8,
+    "postId": 4,
+    "text": "Your insights are invaluable. Keep them coming!"
+  },
+  {
+    "id": 9,
+    "postId": 5,
+    "text": "Impressive post. I'm looking forward to more content like this."
+  },
+  {
+    "id": 10,
+    "postId": 5,
+    "text": "Your explanation is clear and concise. Thanks!"
+  },
+  {
+    "id": 11,
+    "postId": 6,
+    "text": "This topic has always intrigued me. Thanks for sharing your thoughts."
+  },
+  {
+    "id": 12,
+    "postId": 6,
+    "text": "I appreciate the effort you put into this post. It's very informative."
+  },
+  {
+    "id": 13,
+    "postId": 7,
+    "text": "I'm going to share this post with my friends. Keep up the good work!"
+  },
+  {
+    "id": 14,
+    "postId": 7,
+    "text": "Your writing style is engaging. Looking forward to more posts."
+  },
+  {
+    "id": 15,
+    "postId": 8,
+    "text": "Your insights are thought-provoking. Thanks for sharing your perspective."
+  }
+]
+
+}
